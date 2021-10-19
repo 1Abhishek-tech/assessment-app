@@ -1,0 +1,16 @@
+.header {
+  height: 45px;
+  background-color: rgb(240, 27, 27);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+}
+.header > h3 {
+  color: white;
+}
+.logoutIcon {
+  color: white;
+  cursor: pointer;
+}
